@@ -1,0 +1,1001 @@
+repository_owner,repository_language,actor_attributes_name,actor_attributes_location,actor,payload_pull_request_comments,payload_pull_request_title,payload_pull_request_commits,payload_commit_msg,type
+JuliaLang,Julia,Carter Tazio Schonwald,"NYC, USA",cartazio,,,,,IssueCommentEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+llowder,Shell,,,KyleJHarper,0,Kyle contribs,6,,PullRequestEvent
+li9154,,,,li9154,,,,,IssuesEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+jimmykuu,Go,Jimmy Kuu,Shanghai,jimmykuu,,,,golang1.3.2 download,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+meetjspl,CSS,Micha�� Ma��kowiak,"Pozna��, Poland",chemikpil,,,,Remove Speaker,PushEvent
+Conxz,,Xiangzhen Kong,Beijing,Conxz,,,,,CreateEvent
+erogenousbeef,Java,,,Drifter107,,,,,IssuesEvent
+praste,Java,Pushkar Raste,,praste,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+JoshuaEstes,PHP,Joshua Estes,,JoshuaEstes,,,,removed more unused trash,PushEvent
+mmckegg,JavaScript,Ian Irvine,"portland, or",iirvine,,,,,WatchEvent
+aledbf,Go,Manuel Alejandro de Brito Fontes,Santiago de Chile,aledbf,,,,feat(systemd): publisher service.,PushEvent
+enptfb55,Java,,,akintis,,,,Removed the level information from error output for tag name,PushEvent
+Pzink3,CSS,,,Pzink3,,,,,CreateEvent
+joeyhipolito,,Joey Hipolito,,joeyhipolito,,,,,CreateEvent
+oharaandrew314,Java,Andrew O'Hara,"Ottawa, Ontario",oharaandrew314,4,Tinker Time v0.6 Release,88,,PullRequestEvent
+monilka,,,,monilka,,,,,IssuesEvent
+exercism,Go,Katrina Owen,Santa Monica,kytrinyx,,,,,IssueCommentEvent
+JeffMatson,PHP,Richard Tape,"Vancouver, Canada",richardtape,,,,,IssuesEvent
+snaketzy,,,,snaketzy,,,,Signed-off-by: jerry <snaketzy@gmail.com>,PushEvent
+oharaandrew314,Java,Andrew O'Hara,"Ottawa, Ontario",oharaandrew314,4,Tinker Time v0.6 Release,88,,PullRequestEvent
+oharaandrew314,Java,Andrew O'Hara,"Ottawa, Ontario",oharaandrew314,,,,,IssueCommentEvent
+YOURsammich,JavaScript,,,YOURsammich,,,,Update client.js,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+lp349,Objective-C,,,yc624,,,,Merge remote-tracking branch 'origin/master',PushEvent
+nagabharan,Java,Nagabharan N,Dallas,nagabharan,,,,Create ip.java,PushEvent
+yhd4711499,JavaScript,���������,,yhd4711499,,,,r.js + almond,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+andybui2014,PHP,,,andybui2014,,,,pr,PushEvent
+sztlfkyy,,,,vjdnflfjz,,,,,IssuesEvent
+whhl001,,,,whhl001,,,,,IssuesEvent
+evancz,CSS,Richard Feldman,"San Francisco, CA",rtfeldman,,,,,WatchEvent
+xvorenda,JavaScript,X. Valentine Orenda,United States,xvorenda,,,,Works?,PushEvent
+captn3m0,Python,Abhay Rana,IIT Roorkee,captn3m0,,,,Disables travis success emails,PushEvent
+nkarusala,Java,Caleb Stokols,"Atlanta, GA",cjstokols,,,,Made changes to Cargo Added CargoIsFullException Now spaceship uses an the SpaceType enum to decide the initial capacity of the cargo.,PushEvent
+rdryke,,,,ReidAnderson,,,,Add put statements for all the data,PushEvent
+KenanSulayman,JavaScript,Kenan Sulayman,"Berlin, Germany",KenanSulayman,,,,1411790748748 riR+NszZ6x4Gkc0yN20SzxxCIIkJH2VtZngp0B4V2fY=,PushEvent
+ngzhongcai,Objective-C,,,ngzhongcai,,,,Housekeeping Housekeeping,PushEvent
+odilia3b,,,,odilia3b,,,,,CreateEvent
+openmrs,JavaScript,Darius Jazayeri,,djazayeri,,,,"AM-168 , UHM-1578 - Hide patient data for confidential appointments in Daily Appointments page",PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+sudosurootdev,Java,Christopher Latham,"Florida, USA",sudosurootdev,,,,My perf overhaul,PushEvent
+GuyPaddock,Java,Guy Paddock,"Rochester, NY",GuyPaddock,,,,Create README.md Added a readme.,PushEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+kolinkrewinkel,Objective-C,Lu��s R.,"Lisbon, Portugal",goblindegook,,,,,WatchEvent
+leandrofranciscato,Java,,,leandrofranciscato,,,,,CreateEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+Homebrew,Ruby,Mel Riffe,"Richmond, VA",melriffe,,,,,IssueCommentEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+mieko,CSS,Yuri Artemev,"Russia, Yaroslavl",artemeff,,,,,WatchEvent
+lenhattu,C++,,,lenhattu,,,,,CreateEvent
+RetroBSD,C,Serge Vakulenko,"Sunnyvale, CA",sergev,,,,Fixed help message for fsutil.,PushEvent
+asniper,SQF,,,asniper,,,,,MemberEvent
+xming13,JavaScript,Wei Seng,Singapore,xming13,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+dmac14,Python,,,dmac14,,,,Version 1.13 Changes in version history,PushEvent
+herold4,JavaScript,Michael Herold,"San Francisco, CA",herold4,,,,Update game.rb,PushEvent
+voisine,Objective-C,Aaron Voisine,San Francisco,voisine,,,,,CreateEvent
+hrydgard,C++,,,daniel229,,,,,IssueCommentEvent
+li9154,,,,li9154,,,,,IssuesEvent
+Raynos,JavaScript,Ian Irvine,"portland, or",iirvine,,,,,WatchEvent
+monilka,,,,monilka,,,,,IssuesEvent
+pfb120,,,,pfb120,,,,,IssuesEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+BorisMoore,JavaScript,,Guangzhou,Ginhing,,,,,IssuesEvent
+cyuz,JavaScript,,,MauerLi,,,,,PushEvent
+RabbitMedia,PHP,,,RabbitMedia,,,,���������������������������������,PushEvent
+Zhu8,JavaScript,"Yan ""Edward"" Wang",,vontasa,,,,,ForkEvent
+Wallacoloo,Mathematica,Matthew Sorensen,Seattle,matthewSorensen,,,,,IssueCommentEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+Door43,Shell,,,dsm-git,,,,Page Edit [08]: [Translation Notes:] [Allen Bair],PushEvent
+dragon-telerikov,JavaScript,,,dragon-telerikov,,,,commit modified file.,PushEvent
+appbyme,PHP,,,Kinping-Tse,,,,version 2.2.2.2,PushEvent
+aiden603prmvblo,,,,aiden603prmvblo,,,,,CreateEvent
+MosayebG,,Mosayeb Garavand,Iran-Lorestan-Khorramabad,MosayebG,,,,Update README.md,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+zxdy,,Ario,,zxdy,,,,Published with https://stackedit.io/,PushEvent
+HawkeyeMills,JavaScript,Brandon Mills,Iowa,HawkeyeMills,,,,Working FB Client for all metrics and Ability to insert new metrics,PushEvent
+sitegui,JavaScript,,,casamajor,,,,,WatchEvent
+jschrewe,JavaScript,Andrew Cutler,"Sydney, Australia",macropin,,,,,IssueCommentEvent
+ericktatsui,JavaScript,Erick Tatsui,Brasil,ericktatsui,,,,sahdskl,PushEvent
+NexusPenguin,,,,NexusPenguin,,,,Update settings_headers.xml,PushEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+eucalyptus,Python,Alice Hubenko,,aliceh,0,Made adjustment in test speed for delete-volume-on-detail-page,1,,PullRequestEvent
+sprytechies,PHP,,,bhanuagarwal,,,,Activity screen layout,PushEvent
+byggztryng,Ruby,Aaron Lane,,byggztryng,,,,Parallelize Travis Gem install,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+stevengt,,Steven Thomas,United States,stevengt,,,,trying out some bootstrap,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+DMOJ,Python,Xiaomao Chen,,xiaomao5,,,,Disabled environment for python executors,PushEvent
+Contatta,JavaScript,Michael Morton,,mmorton,,,,chain cancel so it can be called on any descendant promise.,PushEvent
+eucalyptus,Python,Alice Hubenko,,aliceh,,,,Merge pull request #978 from aliceh/upstream-merge Made adjustment in test speed for delete-volume-on-detail-page,PushEvent
+enovance,Ruby,Emilien Macchi,Montreal,EmilienM,,,,N1KV support to Virtual Networking Plugin Side: cloud::network =========== - Add a flexibility to modify default ML2 plugin. - Add non-ML2 Cisco plugin support. Note: The configuration is for Cisco Nexus with neutron.plugins.cisco.network_plugin.PluginV2 core plugin & neutron.plugins.cisco.n1kv.n1kv_neutron_plugin.N1kvNeutronPluginV2 vswitch plugin. Agent Side: cloud::network::vswitch ========== - Bring n1kv_vem driver support to vSwitch configuration in Neutron Compute & Network agent. It use the n1kv_vem agent from puppet-neutron using default parameters that could be replaced by custom datas. - ensure nexus1000v package is installed - Also add an unit test with a new context when running n1kv_vem agent. Also update the README.,PushEvent
+styling,PHP,,,styling,0,add readme,5,,PullRequestEvent
+eucalyptus,Python,Alice Hubenko,,aliceh,0,Made adjustment in test speed for delete-volume-on-detail-page,1,,PullRequestEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+markstory,PHP,Adam Royle,"Brisbane, Australia",ifunk,,Don't overwrite cache timestamp until after build has been compiled and saved.,,,PullRequestReviewCommentEvent
+eriknomitch,Ruby,Erik Nomitch,,eriknomitch,,,,,DeleteEvent
+ssydyc,Python,Samsong,,ssydyc,,,,AC,PushEvent
+sudoroom,Arduino,Gregory S. Kielian,,gskielian,,,,,WatchEvent
+hawken93,C,hawken,"Oslo, Norway",hawken93,,,,switch to autoclone to get the dependencies,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+kfinn,,Kevin Finn,"Brooklyn, NY",kfinn,,,,writing the receiver,PushEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+bigday,,,,bigday,,,,,CreateEvent
+CoinDrop,JavaScript,Keenan Lidral-Porter,San Francisco,kayellpeee,,,,,IssuesEvent
+CoinDrop,JavaScript,Keenan Lidral-Porter,San Francisco,kayellpeee,,,,,IssueCommentEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+kluc,,Kelson Luc,,kluc,,,,,CreateEvent
+RobinGall2910,,Robinson Gallego,"Norcross,GA",RobinGall2910,,,,Rename Added Redirection to redirect.js,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+li9154,,,,li9154,,,,,IssuesEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+Jessecar96,C#,,,BlueRaja,,,,,IssueCommentEvent
+tjor,JavaScript,Timothy OReilly,"Palo Alto, California",tjor,,,,Added jQuery based script & Test Page Added jQuery based script that queries Slack via API and the HTML Test Page,PushEvent
+sztlfkyy,,,,vjdnflfjz,,,,,IssuesEvent
+kfp,JavaScript,,,kfp,,,,Initial Commit,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+jochasinga,Go,Joe Chasinga,New York City,jochasinga,,,,Finish adding chapter9,PushEvent
+DjalmoCruzJr,C,Djalmo Cruz Jr.,Petrolina-PE (BR),DjalmoCruzJr,,,,,CreateEvent
+DjalmoCruzJr,C,Djalmo Cruz Jr.,Petrolina-PE (BR),DjalmoCruzJr,,,,,ReleaseEvent
+styling,PHP,,,styling,,,,Merge pull request #2 from WRLin/master add readme,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+zD12,PHP,Robinson Gallego,"Norcross,GA",RobinGall2910,0,Rename Added Redirection to redirect.js,1,,PullRequestEvent
+styling,PHP,,,styling,0,add readme,5,,PullRequestEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+Pirate3DInc,C,,,pirate3d,,,,Update README.md,PushEvent
+andreasgal,Java,Marco,,marco-c,,Fix JAR/JAD files loading multiple times.,,,PullRequestReviewCommentEvent
+mg-alfa-dev,PowerShell,Kelly Leahy,"Seattle, WA",kellypleahy,,,,,IssuesEvent
+hypothesis,Python,Randall Leeds,"San Francisco, CA",tilgovi,,,,,IssueCommentEvent
+InternetDevels,CSS,InternetDevels.com,Ukraine,InternetDevels,,,,Update bump.,PushEvent
+outboundexplorer,,Andy Roddam,,outboundexplorer,,,,Update tags.md,PushEvent
+vidit1,C,Vidit Gupta,,vidit1,,,,Swap nodes at postion k from starting and end,PushEvent
+mix911,Objective-C,Mikhail,Moscow,mix911,,,,1) Remove initWithData from LexicalAnalyzer 2) Fix bug: compairing two pointers to different memories,PushEvent
+AzoriusWake,CSS,,,AzoriusWake,,,,update blog,PushEvent
+KRVJ,Java,,,KRVJ,,,,Luis,PushEvent
+dvanhorn,Racket,Phil Nguyen,"College Park, MD",philnguyen,0,"encode (x = y => fx = fy), fixing previous false counterexample",1,,PullRequestEvent
+ElDeveloper,Python,Yoshiki V��zquez Baeza,"Boulder, Colorado",ElDeveloper,,,,TST: Fix tests for test_format.py,PushEvent
+webastep,,,,webastep,,,,,CreateEvent
+HardenedBSD,C,Oliv��r Pint��r's robot,,opntr-auto,,,,After r271635 mmap(2) requires either MAP_PRIVATE or MAP_SHARED for non-anonymous mappings. This gets 'bhyvectl --get-all' working again. Reported by: Anish Gupta (akgupt3@gmail.com),PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+cyuz,JavaScript,,,MauerLi,,,,,PushEvent
+stephens999,R,,,daichaoxing,,,,Modified criteria for recommendation of nonzeromean algorithm based on central limit theorem. Modified test file to compare the performance against default setting in various situations,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+JugglerShu,Objective-C,Michael Sanders,,msanders,,,,,WatchEvent
+gason2222,Python,,,gason2222,,,,commit,PushEvent
+anatol,Shell,Anatol,,anatol,,,,mruby: update,PushEvent
+mozilla-b2g,JavaScript,Gaia Try Hook,,try-server-hook,,,,,IssueCommentEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+cparvini,,Cameron Parvini,,cparvini,,,,,CreateEvent
+wakaba,Perl,Wakaba,,wakaba,,,,auto,PushEvent
+chetan51,Python,Chetan Surpur,"Cupertino, CA",chetan51,,,,"Name the monitored classes, and combine printing of traces",PushEvent
+kbaba1001,JavaScript,kbaba1001,,kbaba1001,,,,diary 2014-09-27 13:05:23,PushEvent
+xiaozhou123456,,xiaoliu123456,xiaoliu123456,xiaozhou123456,,,,,IssuesEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+weathernick,CSS,,,weathernick,,,,Initial commit,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+mastronardif,CSS,Frank Mastronardi,U.S.,mastronardif,,,,updated,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+enovance,Ruby,Emilien Macchi,Montreal,EmilienM,,,,Bring EMC VNX support for volumes backend - Add a new backend to support EMC VNX direct driver - Unit test with a new context - Update the README,PushEvent
+webastep,,,,webastep,,,,,CreateEvent
+Fercho05,,,,Fercho05,,,,,CreateEvent
+WiringProject,Java,Damian Barrag��n,,dbarragan,,,,Merge pull request #39 from championswimmer/master-fix-rxtx-hack fix the hack for finding jSSC lib,PushEvent
+BSData,Gosu,,,Fuzzi99,,,,Updated Chinese Federation with new PDF All new models and changed added. Due to assumed typos in the PDF this will be updated again once those have been cleared up by the writers,PushEvent
+WiringProject,Java,Damian Barrag��n,,dbarragan,2,fix the hack for finding jSSC lib,1,,PullRequestEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+basketbaseb,Ruby,,,basketbaseb,,,,Only edit and destroy your user,PushEvent
+rsiwady29,JavaScript,,,rsiwady29,,,,Merge branch 'master' of github.com:rsiwady29/barcampsps.github.io * 'master' of github.com:rsiwady29/barcampsps.github.io: Update index.html,PushEvent
+elkingtowa,Python,,,elkingtowa,,,,Update blast_conservation_plot.py,PushEvent
+MichaelRalston,Haskell,,,MichaelRalston,,,,Don't allow dropping on all zones.,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+Deitronix,Python,,,Deitronix,,,,"- Defiling Text is back ^_^"" - Merged your classes with my changes, the piece constructor now takes an image at the end. This build works on mine, email or text me if there is any problemo.",PushEvent
+jcalovski,,Jonathan Calovski,,jcalovski,,,,No Sleep,PushEvent
+alowell,Python,,,alowell,,,,"""update""",PushEvent
+wordnik,JavaScript,Ai_boy,,aiboy,,,,,WatchEvent
+zD12,PHP,Robinson Gallego,"Norcross,GA",RobinGall2910,0,Rename Added Redirection to redirect.js,1,,PullRequestEvent
+NuCivic,Shell,Aaron Couch,"Madison, WI",acouch,,,,Update .travis.yml,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+lazeyliu,,,,lazeyliu,,,,,CreateEvent
+spellman,VimL,Cort Spellman,,spellman,,,,,CreateEvent
+HackingHealths,,Justin Yek,San Francisco / Hong Kong / Singapore,jyek,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+dmruwan,Java,Chandika Kamal,,chandikakamal,,,,delete webserrvice,PushEvent
+nicball,C,Nick Ballard,,nicball,,,,Update jksn.hpp,PushEvent
+professorNim,Ruby,Steve Nims,"Atlanta, GA",professorNim,,,,Minor edits,PushEvent
+nparov,,,,nparov,,,,,TeamAddEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+MosayebG,C,Mosayeb Garavand,Iran-Lorestan-Khorramabad,MosayebG,,,,Create proxy.c,PushEvent
+piwik,JavaScript,,,piwik-auto-commit-bot,,,,Travis: Initiating build for commit 'aea43ae3e0afbf81f7cb5a9bd7e9b15530689879' on branch 'master': Temporarily disable test cc @diosmosis,PushEvent
+sandeepmistry,JavaScript,Baoming Bai,Beijing,skyming,,,,,WatchEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+HardenedBSD,C,Oliv��r Pint��r's robot,,opntr-auto,,,,Merge remote-tracking branch 'freebsd/master' into hardened/current/master,PushEvent
+DBNess,Ruby,Vanessa Hurst,"New York, NY",DBNess,,,,remove deprecated rails 3 config settings,PushEvent
+CoinDrop,JavaScript,Keenan Lidral-Porter,San Francisco,kayellpeee,,,,,IssuesEvent
+CoinDrop,JavaScript,Keenan Lidral-Porter,San Francisco,kayellpeee,,,,,IssueCommentEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+anbukarthik,,Anbuselvan,coimbatore,anbukarthik,,,,,CreateEvent
+hevik,JavaScript,Markus Nordang��rd,"Stockholm, Sweden",nordangaard,,,,d,PushEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+nparov,JavaScript,,,nparov,,,,,TeamAddEvent
+Edchen001,Ruby,Edward Chen,,Edchen001,,,,took out api key,PushEvent
+hypothesis,Python,Randall Leeds,"San Francisco, CA",tilgovi,,,,,IssueCommentEvent
+rwjblue,JavaScript,Robert Jackson,"Hope, RI",rwjblue,,,,Use symlink aware node-walk-sync.,PushEvent
+looking-promising,JavaScript,,,looking-promising,,,,Merge remote-tracking branch 'origin/master' Conflicts: .gitignore,PushEvent
+li9154,,,,li9154,,,,,IssuesEvent
+JC5,PHP,Sander Dorigo,NL,JC5,,,,Various bug fixes.,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+peatio,Ruby,Jan,"Hangzhou, China",janx,,,,single character hint for place order,PushEvent
+pfb120,,,,pfb120,,,,,IssuesEvent
+gasull,Python,Daniel Gonzalez Gasull,,gasull,,,,Fix style,PushEvent
+Mrzy,Java,MrZhangyan,Beijing,Mrzy,,,,change: modify update policy,PushEvent
+cellist,Python,Enthusiastic about the Cello,Germany,cellist,,,,Georg Philipp Telemann: Spirituoso,PushEvent
+bricemciver,,,,bricemciver,,,,,CreateEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+conradmuan,,Conrad Muan,Toronto,conradmuan,,,,added readme,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+Raynos,JavaScript,Athan,San Francisco,kgryte,,,,,WatchEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+californiavol,JavaScript,Charles,,californiavol,,,,added pre tags,PushEvent
+justathoughtor2,,,,justathoughtor2,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+plutado,Ruby,David Plutado Fugate,"New York City, New York",plutado,,,,Update README.md,PushEvent
+diegotrus7,,Diego de Souza,"Boston, MA",diegotrus7,,,,Create code,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+hypothesis,Python,Randall Leeds,"San Francisco, CA",tilgovi,,,,,IssueCommentEvent
+outboundexplorer,,Andy Roddam,,outboundexplorer,,,,Update tags.md,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+dorayatou,Ruby,,,dorayatou,,,,readme.rdoc,PushEvent
+basketbaseb,Ruby,,,basketbaseb,,,,,IssuesEvent
+aminmeyghani,,Amin Meyghani,Brooklyn,aminmeyghani,,,,add test1,PushEvent
+robotframework,Python,,,hermian,,,,,WatchEvent
+xming13,JavaScript,Wei Seng,Singapore,xming13,,,,,CreateEvent
+praste,Java,Pushkar Raste,,praste,,,,Added jgitflow plugin version 1.m4,PushEvent
+li9154,,,,li9154,,,,,IssuesEvent
+sztlfkyy,,,,moqfpinlj,,,,,IssuesEvent
+Aerolab,JavaScript,,,leekaneshiro88,,,,,ForkEvent
+addyosmani,Python,Nick Bottomley,"Berkeley, CA",nickb1080,,,,,WatchEvent
+LocalData,JavaScript,TransforMap,,14mmm,,,,,ForkEvent
+diegocasmo,JavaScript,Diego Castillo,Panama,diegocasmo,,,,Testing uncnahnged files,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+mybatis,Java,Jeremy Landis,USA,hazendaz,,,,,IssuesEvent
+catx-weather,,Radar Robot,,RadarBot,,,,Update 49 frames for 14 stations at 2014-09-27 04:06:49.691130,PushEvent
+basketbaseb,Ruby,,,basketbaseb,,,,,IssuesEvent
+omgimdrunk,Python,,,omgimdrunk,,,,Update drunkClicker.py,PushEvent
+mbbx6spp,Scala,Susan Potter,"Urbana, IL",mbbx6spp,,,,Outline of Sigarz wrapper API for Sigar Java lib,PushEvent
+skyduy,,Dultty,China Nanjing,skyduy,,,,,CreateEvent
+smitchell-gt,,Steven,"Atlanta, GA",smitchell-gt,,,,Update README.md,PushEvent
+Yaffle,,Viktor,,Yaffle,,,,Create index.html,PushEvent
+RobinGall2910,,Robinson Gallego,"Norcross,GA",RobinGall2910,,,,Rename Added Redirection to index.html,PushEvent
+wingyu,Ruby,,,wingyu,,,,Sorcery authentication complete,PushEvent
+codeforamerica,Python,,,migurski,,,,"Added NodeJS package for newer Jekyll, removed old unused recipes",PushEvent
+Aerolab,JavaScript,,,AaronCallahan,,,,,WatchEvent
+charanjit07,,,,charanjit07,,,,,CreateEvent
+SenhW,,,,SenhW,,,,my programs,PushEvent
+Alterplay,Objective-C,Alexey Belkevich,"Kiev/Donetsk, Ukraine",belkevich,,,,Updated readme to version 0.1.4,PushEvent
+Hiroshi1978,Java,,"Tokyo, Japan",Hiroshi1978,,,,Update README.md,PushEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+qingyezhu,Java,,,qingyezhu,,,,������������,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+yrhtiger,,,,yrhtiger,,,,1,PushEvent
+leapmotion,C++,Gabriel Hare,,GabrielHare,,,,,IssueCommentEvent
+oscarmolinadev,SQF,,"Barcelona, Catalonia",oscarmolinadev,,,,"Rework Debug, add tracking target waypoint position, wip tracking leaders",PushEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+zD12,PHP,Robinson Gallego,"Norcross,GA",RobinGall2910,0,Rename Added Redirection to index.html,1,,PullRequestEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+KV90,Lua,Freddiec,,Socome,,,,Merge pull request #1 from Mesagoppinmypants/master Messago's crap,PushEvent
+KV90,Lua,Freddiec,,Socome,0,"Updated/changed a bunch of stuff, check it out.",4,,PullRequestEvent
+li9154,,,,li9154,,,,,IssuesEvent
+Zombi-X,,Joshua,,lj50036,,,,"Base: Floating window with multitasking basic floating window are taken from AOSPA (HALO) by @D4rKn3sSyS Drawables courtesy of @Alex Cruz thanks to him :) with heavy change to get this work for multitasking this feature, has ability to: 1. Moveable window to various position 2. Scaling window with 2 finger like zoom in/out 3. Double tap in actionbar or above window to fullscreen or back to floating window 4. Automatically resize when Snapping into one of side (Top, Bottom, Left, Right) (taken from xhalofloatingwindow by @zst123) 5. Automatically switch focus from other app (taken from multiwindow by @xplodwild) 6. Unlimited floating window app (depends on RAM) this is still under testing, to make fully works so if there any bug because of this, DO NOT REPORT INTO OMNIROM JIRA to make app launch using Floating window feature you must add Intent.FLAG_FLOATING_WINDOW before start an activity for example you can look at https://gerrit.omnirom.org/6515 need https://gerrit.omnirom.org/#/c/6561 PS.17 : fix scaling PS.18 : fix layout calculation when rotate PS.19 : support minimize/maximize window (see App circle sidebar) PS.20 : fix previouse app PS.21 : rebased due to changes in 4.4.3_r1.1 Change-Id: Iad00c239de7d66e8bb45205ce626d4f08417b7cd",PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+eprogramming,Java,Helio Frota,"Fortaleza-CE, Brasil",eprogramming,,,,updates.,PushEvent
+freqn,CSS,Chip Eyler,"Wilmington, Ohio",freqn,,,,Add/update post,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+doc-iwatersports,PHP,Doc Daneeka,,doc-iwatersports,,,,,DeleteEvent
+jpmens,C,,,at15,,,,,WatchEvent
+jpf,Java,Mercedes Coyle,,mercul3s,,,,,WatchEvent
+nparov,JavaScript,,,nparov,,,,,TeamAddEvent
+wufufufu,Shell,Steven Han,"Atlanta, GA",wufufufu,,,,Bug fixed.,PushEvent
+node-webot,JavaScript,Jackson Tian,"Hangzhou, China",JacksonTian,,,,Add retry when token is invalid,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+KenanSulayman,JavaScript,Kenan Sulayman,"Berlin, Germany",KenanSulayman,,,,1411790820188 DI06nwUm8G0D3J+2TZFvPeh4ccB9eOPssBID2tqzzpo=,PushEvent
+tacaswell,,Gabriel Iltis,"Upton, NY",giltis,,,,,IssueCommentEvent
+mesosphere,JavaScript,Grayson Koonce,San Francisco,breerly,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+luisbenitez02,,Luis Benitez,Palmira,luisbenitez02,,,,,CreateEvent
+blakev,JavaScript,Blake VandeMerwe,Utah,blakev,,,,Fixed opt.obj and mismatched args lengths,PushEvent
+leapmotion,C++,Gabriel Hare,,GabrielHare,1,Ref is auto packet source,2,,PullRequestEvent
+monilka,,,,monilka,,,,,IssuesEvent
+victoredwardocallaghan,C,Edward O'Callaghan,Australia,victoredwardocallaghan,,,,sys/sys/proc.h: hack to make things build Signed-off-by: Edward O'Callaghan <eocallaghan@alterapraxis.com>,PushEvent
+dgw,CSS,dgw,"Waltham, MA",dgw,,,,Fix chat direction,PushEvent
+nparov,,,,nparov,,,,,TeamAddEvent
+ifdion,PHP,,,ifdion,,,,send greeting in email,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+adobe,JavaScript,������,"Xi'an,China",zhangdroid,,,,,WatchEvent
+souldong1591,CSS,���������,,souldong1591,,,,concerning,PushEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+nparov,,,,nparov,,,,,TeamAddEvent
+li9154,,,,li9154,,,,,IssuesEvent
+sisiwei,Python,Sisi Wei,New York City,sisiwei,,,,adding anchor blank,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+mrtanweijie,,���������,������������������,mrtanweijie,,,,,IssuesEvent
+wp-plugins,PHP,Plugin Mirror,,wp-plugins-user,,,,,CreateEvent
+nam921,JavaScript,,,nam921,,,,,CreateEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+petemmitchell,Ruby,Pete Mitchell,United States,petemmitchell,,,,"Chapter 6.5 complete. Added authors with id to articles, and updated articles to only allow signed in users to create, edit, or delete articles.",PushEvent
+doc-iwatersports,PHP,Doc Daneeka,,doc-iwatersports,,,,,DeleteEvent
+flchen,,,,flchen,,,,,CreateEvent
+dm4-cron,,,,dm4-cron,,,,update at timestamp 1411790404,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+xiaoxu125634,JavaScript,Bruno,China,xiaoxu125634,,,,Update README.md,PushEvent
+beninada,CSS,Ben Inada,"Los Angeles, CA",beninada,,,,Update favicon.,PushEvent
+flchen,,,,flchen,,,,,CreateEvent
+caskroom,Ruby,Claudia,"Darmstadt, Germany",claui,,,,,ForkEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+gofasta,Groovy,,,gofasta,,,,another attempt to fix the timezone issue,PushEvent
+KV90,Lua,Freddiec,,Socome,0,"Revert ""Updated/changed a bunch of stuff, check it out.""",1,,PullRequestEvent
+InternetDevels,CSS,InternetDevels.com,Ukraine,InternetDevels,,,,Update bump.,PushEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+bitfulsoftware,,Matt Wahlig,St. Louis,mwahlig,,,,,IssuesEvent
+RobinGall2910,CSS,John J. Miller,"Toronto, Canada",zD12,,,,,IssuesEvent
+mrtanweijie,,���������,������������������,mrtanweijie,,,,,IssueCommentEvent
+alejandroxp90,,,,alejandroxp90,,,,Update PracticaCine,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+charanjit07,CSS,,,charanjit07,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+PlenipotentSS,PHP,Steven Stevenson,"Seattle, WA",PlenipotentSS,,,,added video to header,PushEvent
+izgzhen,C++,Zhen Zhang,China,izgzhen,,,,update README.md,PushEvent
+KV90,Lua,Freddiec,,Socome,,,,,CreateEvent
+weathernick,CSS,,,weathernick,,,,Initial commit,PushEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+GhostComputing,C,Yong,Shenzhen,GhostComputing,,,,,IssuesEvent
+bitfulsoftware,,Matt Wahlig,St. Louis,mwahlig,,,,,IssuesEvent
+philbertphotos,Lua,Nathan Hunstad,"Minneapolis, MN",huns0004,,,,,IssueCommentEvent
+monilka,,,,monilka,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+CyanogenMod,Java,CyanogenMod Gerrit,,cm-gerrit,,,,AppWidget: Make widget update quickly Can't display the Power control widget after power on DUT for 3 mins. Because of the update intent is received after power on DUT for 3 mins. Set the intent to foregound CRs-Fixed: 707605 Change-Id: I5418c84a7dc79466be7a30bb3672ea41976badb0,PushEvent
+amunategui,CSS,Manuel Amunategui,,amunategui,,,,u,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+apache,Scala,Xiangrui Meng,,mengxr,,[SPARK-3486][MLlib][PySpark] PySpark support for Word2Vec,,,PullRequestReviewCommentEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+realistschuckle,JavaScript,Curtis Schlak,,realistschuckle,,,,Created the walkthrough for Math.log1p which closes #17.,PushEvent
+realistschuckle,JavaScript,Curtis Schlak,,realistschuckle,,,,,IssuesEvent
+baijia,PHP,,,gaoyuanyang,,,,init,PushEvent
+bitfulsoftware,,Matt Wahlig,St. Louis,mwahlig,,,,,IssuesEvent
+li9154,,,,li9154,,,,,IssuesEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+coffeedoc,CoffeeScript,Shahar Or,Israel,mightyiam,,,,,WatchEvent
+sasidhar,,Vanga Sasidhar,"Hyderabad, India",sasidhar,,,,Fixed issue with the CodeIgniter user guide.,PushEvent
+hazendaz,Java,Jeremy Landis,USA,hazendaz,,,,Merge pull request #26 from hazendaz/master Pretty up README,PushEvent
+cloew,Python,,,cloew,,,,Added Parallax Card,PushEvent
+edx,Python,Clinton Blackburn,"Cambridge, MA",clintonb,,,,,DeleteEvent
+piyongze,Java,,,piyongze,,,,modify README.md,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+verdana,VimL,Verdana Mu,������������,verdana,,,,������ hhvm-composer,PushEvent
+cbbrowne,AGS Script,Christopher Browne,"Toronto, Canada",cbbrowne,,,,Check in bug updates - run of scripts/Slony-Archive-Bugzilla.sh,PushEvent
+webastep,,,,webnitros,,,,,ForkEvent
+JasonBarnabe,JavaScript,Jason Barnabe,"Grande Pointe, MB",JasonBarnabe,,,,,IssuesEvent
+JasonBarnabe,JavaScript,Jason Barnabe,"Grande Pointe, MB",JasonBarnabe,,,,,IssueCommentEvent
+nnnick,JavaScript,William Pereira,"Belo Horizonte MG, Brazil",williampereira,,,,,ForkEvent
+Yaffle,,Viktor,,Yaffle,,,,Update index.html,PushEvent
+runtimeverification,Java,Owolabi Legunsen,,owolabileg,,,,,CreateEvent
+faisyl,Ruby,Faisal,,faisyl,,,,Fix docs to match implementation,PushEvent
+Alterplay,Objective-C,Alexey Belkevich,"Kiev/Donetsk, Ukraine",belkevich,,,,,CreateEvent
+alowell,Python,,,alowell,,,,"""update""",PushEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+javb99,Java,,,javb99,,,,fixed warnings.,PushEvent
+doyoubi,,,,doyoubi,,,,construct voronoi diagram,PushEvent
+MichaelRalston,Haskell,,,MichaelRalston,,,,Initialize the droppable field here.,PushEvent
+pfb120,,,,pfb120,,,,,IssuesEvent
+bpear96,Java,Brandon,,bpear96,,,,Add Progress Dialogs. Run some tasks in background threads.,PushEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+bitfulsoftware,,Matt Wahlig,St. Louis,mwahlig,,,,,IssuesEvent
+wordsandwriting,JavaScript,James Ballard,London,jamesballard,,,,,WatchEvent
+JoshClose,C#,,,tachen,,,,,ForkEvent
+SlugCam,TeX,Leland Miller,"Santa Cruz, CA",lelandmiller,,,,Placeholders added for everything,PushEvent
+dapper-app,JavaScript,,,JeffN825,,,,Debugging,PushEvent
+allmobilize,JavaScript,Minwe LUO,Beijing,Minwe,,,,Merge branch 'master' of https://github.com/allmobilize/amazeui into codename-h,PushEvent
+edx,Python,Clinton Blackburn,"Cambridge, MA",clintonb,0,Added Travis Configuration,1,,PullRequestEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+gurugithub,Ruby,Guru Shetti,Silicon Valley,gurugithub,,,,,CreateEvent
+nparov,,,,nparov,,,,,TeamAddEvent
+PIH,Java,Darius Jazayeri,,djazayeri,,,,UHM-1578 - Added confidential column to Appointments export,PushEvent
+aminmeyghani,,Amin Meyghani,Brooklyn,aminmeyghani,,,,add test2,PushEvent
+dedenGf,,,,dedenGf,,,,,CreateEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+adrianh,Perl,Karen Etheridge,"Vancouver, BC, Canada",karenetheridge,,,,,CreateEvent
+jirkaroz,,,,jirkaroz,,,,,CreateEvent
+Kimmsudenver,Java,Paul Ankenman,,ankenmanp,,,,,ForkEvent
+bitfulsoftware,,Matt Wahlig,St. Louis,mwahlig,,,,,IssuesEvent
+Mr-Dave,C,,,Mr-Dave,,,,,IssueCommentEvent
+monilka,,,,monilka,,,,,IssuesEvent
+tdeeb,C#,,,tdeeb,,,,Polished and completed the Fort aka Castle -Positioned the fort so the entrance is roughly near the middle of the screen,PushEvent
+Hiroshi1978,Java,,"Tokyo, Japan",Hiroshi1978,,,,Update README.md,PushEvent
+nguyenducduy,CSS,Duy Nguyen,Vietnam,nguyenducduy,,,,remove twig js,PushEvent
+privat,C,Alexandre Terrasa,,Morriar,,,,,IssueCommentEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+nparov,JavaScript,,,nparov,,,,,TeamAddEvent
+jessesquires,Objective-C,Johnny Nguyen,"Hanoi, Vietnam",vietnguyen09,,,,,IssuesEvent
+adrianh,Perl,Karen Etheridge,"Vancouver, BC, Canada",karenetheridge,,,,bump version to 0.47,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+tyrantelf,Lua,Mitchell Grice,Queensland Australia,gricey432,,,,,IssueCommentEvent
+mimbrown,Java,,,mimbrown,,,,Working on failing tests for board initiation.,PushEvent
+xinwucwp,Java,Xinming Wu,"924 16th Street Golden, Colorado 80401",xinwucwp,,,,update,PushEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+nparov,,,,nparov,,,,,TeamAddEvent
+chuan6,,chuan6,,chuan6,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+ripper2hl,,Jesus Perales,"Guadalupe, Nuevo Leon, Mexico",ripper2hl,,,,,CreateEvent
+streakq,Objective-C,alfred sang,beijing,i5ting,,,,,IssuesEvent
+PyLadies-UHack,Python,Andrew Clarkson,"Minneapolis, MN",andrewclarkson,,,,MOAR REFACTOR!!!1,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+pzhao5,Objective-C,Philip Zhao,New York,pzhao5,,,,Merge branch 'master' of https://github.com/pzhao5/PHAirViewController,PushEvent
+FRex,C++,B��a��ej Dariusz Roszkowski,,FRex,,,,"Moved screen buffer to model so view is concerned with ONLY rendering, it's not even required to fetch messages and lay them out itself.",PushEvent
+kemist,VimL,Greg Ingelmo,,kemist,,,,Massive update to vim-go,PushEvent
+bitfulsoftware,,Matt Wahlig,St. Louis,mwahlig,,,,,IssuesEvent
+Ticketmaster,JavaScript,���������,"Beijing, China",chenryn,,,,,WatchEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+li9154,,,,li9154,,,,,IssuesEvent
+realnumbers,JavaScript,Julian Sparber,Italy,jsparber,,,,[feat] add realtime positions,PushEvent
+sztlfkyy,,,,vjdnflfjz,,,,,IssuesEvent
+vaendryl,,,,vaendryl,,,,,IssueCommentEvent
+paroza,JavaScript,,,paroza,,,,other experiments,PushEvent
+pat-thomas,Clojure,Pat Thomas,"Philadelphia, PA",pat-thomas,,,,Change color of rhythm box when clicked.,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+desricha,Java,,,timbaktu,,,,chat conversation changes,PushEvent
+LocalData,JavaScript,TransforMap,,14mmm,,,,,ForkEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+11aS11,,,,11aS11,,,,,CreateEvent
+andreasgal,Java,Myk Melez,The Internet,mykmelez,,,,,IssuesEvent
+tg--,C,thomasg,,tg--,,,,episodes: and one more fix...,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+bitfulsoftware,,Matt Wahlig,St. Louis,mwahlig,,,,,IssuesEvent
+jomijournal,PHP,Albert Chen,"Boston, MA",blahoink,,,,Update README.md finished windows install info,PushEvent
+robertzk,R,Robert Krzyzanowski,"Chicago, IL",robertzk,,,,Add travis,PushEvent
+HardenedBSD,C,Oliv��r Pint��r's robot,,opntr-auto,,,,"MFC revisions 271553, 271567: r271553: Rename choices in partitioning method dialog (nwhitehorn) r271567: ZFS support isn't actually experimental anymore (nwhitehorn) Approved by: re (gjb)",PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+zsh-users,Python,Joe,Taiwan,joe11051105,,,,,WatchEvent
+mauriccio,,,,mauriccio,,,,,CreateEvent
+streakq,Objective-C,alfred sang,beijing,i5ting,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+li9154,,,,li9154,,,,,IssuesEvent
+Adhi-156,,Md. Shafiur Rahman,Dhaka,Adhi-156,,,,,CreateEvent
+aminmeyghani,,Amin Meyghani,Brooklyn,aminmeyghani,,,,Merge branch 'dev',PushEvent
+webnitros,,,,webnitros,,,,Create readme.txt,PushEvent
+thedatachef,Java,Kotakonda Vinay Kumar,Bengaluru,kotakondavinay,,,,,ForkEvent
+HackingHealths,,Justin Yek,San Francisco / Hong Kong / Singapore,jyek,0,Frontend,2,,PullRequestEvent
+andreasgal,Java,Marco,,marco-c,,,,,IssueCommentEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+node-webot,JavaScript,Jackson Tian,"Hangzhou, China",JacksonTian,,,,Merge pull request #118 from node-webot/retry Add retry when token is invalid,PushEvent
+kodekiwong,,,,kodekiwong,,,,Test folder architecture,PushEvent
+node-webot,JavaScript,Jackson Tian,"Hangzhou, China",JacksonTian,0,Add retry when token is invalid,1,,PullRequestEvent
+koreader,Lua,Huang Xin,Peking University,chrox,,,,,IssueCommentEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+chouclee,,Zhoucheng Li,Pittsburgh,chouclee,,,,,CreateEvent
+williampereira,,William Pereira,"Belo Horizonte MG, Brazil",williampereira,,,,,WatchEvent
+JoelLarson,,Joel Larson,Minnesota,JoelLarson,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+outboundexplorer,,Andy Roddam,,outboundexplorer,,,,Update Laravel-4-Authentication.md,PushEvent
+pantuts,JavaScript,,,pantuts,,,,Update jquery.quicknote.js,PushEvent
+nnnick,JavaScript,William Pereira,"Belo Horizonte MG, Brazil",williampereira,,,,,WatchEvent
+Universefei,C++,univ,,Universefei,,,,finish wps coordinate transformation functionality and testing,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+angelventura,,,,angelventura,,,,--allow-empty-message,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+xenim,Python,,,cato-,,,,update,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+angelventura,,,,angelventura,,,,--allow-empty-message,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+eugeneai,TeX,Evgeny Cherkashin,"Irkutsk, Russia",eugeneai,,,,Added approved by author materials.,PushEvent
+justathoughtor2,,,,justathoughtor2,,,,Create README.md,PushEvent
+EsmerilProgramming,Java,Helio Frota,"Fortaleza-CE, Brasil",eprogramming,0,updates.,1,,PullRequestEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+claui,,Claudia,"Darmstadt, Germany",claui,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+pharpend,Emacs Lisp,Peter Harpending,United States,pharpend,,,,dotfiles-comet commit for Fri Sep 26 22:07:55 MDT 2014,PushEvent
+LocalData,JavaScript,TransforMap,,14mmm,,,,,ForkEvent
+RobinGall2910,CSS,Robinson Gallego,"Norcross,GA",RobinGall2910,,,,Update CNAME,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+angelventura,,,,angelventura,,,,--allow-empty-message,PushEvent
+robertzk,R,Robert Krzyzanowski,"Chicago, IL",robertzk,,,,move badge to top of README,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+KRVJ,Java,,,KRVJ,,,,Kenneth,PushEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+allmobilize,JavaScript,Minwe LUO,Beijing,Minwe,0,new start,3,,PullRequestEvent
+HardenedBSD,C,Oliv��r Pint��r's robot,,opntr-auto,,,,Merge remote-tracking branch 'freebsd/stable/10' into hardened/10/aslr,PushEvent
+mauriccio,,,,mauriccio,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+ashking,,Ashwin,"Bangalore, India",ashking,,,,09-27-2014,PushEvent
+DanWahlin,JavaScript,,,julianshaw2000,,,,,ForkEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+DataCanvasIO,Python,Leon Zhang,Beijing,leoncamel,,,,Build all module for scripts/modules.rebuild,PushEvent
+hazendaz,Java,Jeremy Landis,USA,hazendaz,,,,Merge pull request #9 from hazendaz/master Pretty Up Readme,PushEvent
+YoheiKakiuchi,C++,Yohei Kakiuchi,,YoheiKakiuchi,,,,Merge pull request #122 from s-noda/soften_hrp3_hand soften hrp3 hand. good for grasping,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+andreasgal,Java,Myk Melez,The Internet,mykmelez,,,,,IssueCommentEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+CobraLab,,Gabriel A. Devenyi,"Montreal, Ontario, Canada",gdevenyi,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+manishsuwal,PHP,Manish Suwal,"Kathmandu, Nepal",manishsuwal,,,,Change success button,PushEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+pfb120,,,,pfb120,,,,,IssuesEvent
+streakq,Objective-C,alfred sang,beijing,i5ting,,,,,IssuesEvent
+drawapp8,JavaScript,,,zhangjingpu,,,,,ForkEvent
+EsmerilProgramming,Java,Helio Frota,"Fortaleza-CE, Brasil",eprogramming,,,,Merge pull request #63 from eprogramming/master updates.,PushEvent
+li9154,,,,li9154,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+bsmr-erlang,Elixir,Boris M��hmer,"N��rnberg, Germany",bsmr,,,,Merge branch 'master' of https://github.com/elixir-lang/elixir,PushEvent
+EsmerilProgramming,Java,Helio Frota,"Fortaleza-CE, Brasil",eprogramming,0,updates.,1,,PullRequestEvent
+learnenglish,CSS,,,learnenglish,,,,chaged base url,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+WebKit,C++,tempbottle,"Hangzhou,Zhejiang,China",tempbottle,,,,,ForkEvent
+apache,Scala,Xiangrui Meng,,mengxr,,[SPARK-3486][MLlib][PySpark] PySpark support for Word2Vec,,,PullRequestReviewCommentEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+Adhi-156,,Md. Shafiur Rahman,Dhaka,Adhi-156,,,,,CreateEvent
+andreasgal,Java,Myk Melez,The Internet,mykmelez,,,,Merge pull request #348 from marco-c/vmc_vfc Set vmc and vfc for all classes,PushEvent
+rh1,Shell,Ryan Harris,,rh1,,,,Updated repo with rsync,PushEvent
+andreasgal,Java,Marco,,marco-c,,,,,IssuesEvent
+KenanSulayman,JavaScript,Kenan Sulayman,"Berlin, Germany",KenanSulayman,,,,1411790891649 bD90U8/WQUTNT7/KjEZ7oYvWuHhH4vAHfKoqJ4uLEto=,PushEvent
+allmobilize,JavaScript,Minwe LUO,Beijing,Minwe,,,,Merge pull request #100 from allmobilize/codename-h new start,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+angelventura,CSS,,,angelventura,,,,--allow-empty-message,PushEvent
+jbcrail,Rust,Joseph Crail,,jbcrail,,,,"Solve problems 76,124 using Rust.",PushEvent
+php-academy,PHP,,,php-academy,,,,�������������������������� ������������ ���� ����������������,PushEvent
+toctoc0352,Ruby,,,toctoc0352,,,,,CreateEvent
+allmobilize,JavaScript,Minwe LUO,Beijing,Minwe,0,new start,3,,PullRequestEvent
+toctoc0352,Ruby,,,toctoc0352,,,,,ReleaseEvent
+LocalData,JavaScript,TransforMap,,14mmm,,,,,ForkEvent
+andreasgal,Java,Myk Melez,The Internet,mykmelez,3,Set vmc and vfc for all classes,2,,PullRequestEvent
+joyent,JavaScript,,"Sacramento, CA",meIias,,,,,WatchEvent
+Poordeveloper,JavaScript,,,Poordeveloper,,,,xx,PushEvent
+center-key,,Dem Pilafian,"San Francisco, California",dpilafian,,,,Libraries jquery and dna.js added,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+soliloquial,Java,Patrick Niedzielski,"Ithaca, NY",PatrickNiedzielski,,,,Initial ImageRecognize library using Google Image Search.,PushEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+EsmerilProgramming,Java,Helio Frota,"Fortaleza-CE, Brasil",eprogramming,,,,,IssuesEvent
+vonnyfly,,"Feng,Li",,vonnyfly,,,,,CreateEvent
+matttarantino,PHP,Matt Tarantino,"Scranton, PA",matttarantino,,,,Updates,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+angelventura,,,,angelventura,,,,--allow-empty-message,PushEvent
+ElDeveloper,Python,Yoshiki V��zquez Baeza,"Boulder, Colorado",ElDeveloper,,,,TST: Fix tests in test_core.py,PushEvent
+ongnathan,Java,,,ongnathan,,,,"Tried doing it, failed. Will try again tomorrow.",PushEvent
+garnace,JavaScript,,,garnace,,,,us27,PushEvent
+tamo,,TAKAHASHI Tamotsu,,tamo,,,,Update ja.xml,PushEvent
+juanimarchese,Java,,,juanimarchese,,,,BUG#589 Listado en Android - Bug Fotos Volley,PushEvent
+DrNoodles,C++,,,SpiritualXTC,,,,Src + Res,PushEvent
+ga-wdi-boston,Ruby,Anna Tsykalova,,tsyan,,,,,IssueCommentEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+dihuynh,,Di Huynh,,dihuynh,,,,adding principles for Kanban,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+ValveSoftware,,Tim S��ter��y,Norway,timss,,,,,IssueCommentEvent
+HardenedBSD,C,Oliv��r Pint��r's robot,,opntr-auto,,,,"MFC revisions 271553, 271567: r271553: Rename choices in partitioning method dialog (nwhitehorn) r271567: ZFS support isn't actually experimental anymore (nwhitehorn) Approved by: re (gjb)",PushEvent
+praste,Java,Pushkar Raste,,praste,,,,Update pom.xml,PushEvent
+outboundexplorer,,Andy Roddam,,outboundexplorer,,,,Update Laravel-4-Authentication.md,PushEvent
+rxin,Scala,Reynold Xin,"Berkeley, CA",rxin,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+witoong623,C#,,,witoong623,,,,"Add relate update ingredient, Delate background worker",PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+mozilla,JavaScript,Trevor Hobson,,trevorhobson,0,Stop loading unused DekiScript modules,1,,PullRequestEvent
+SimonQian,,,,SimonQian,,,,,CreateEvent
+ga-wdi-boston,Ruby,Anna Tsykalova,,tsyan,1,cheat sheet for classes - Will and John,1,,PullRequestEvent
+li9154,,,,li9154,,,,,IssuesEvent
+teakinotang,PHP,,,teakinotang,,,,Update validate_login.php,PushEvent
+ngzhongcai,Objective-C,,,ngzhongcai,,,,Update README.md,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+danarrington,,Dan Arrington,"Seattle, WA",danarrington,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+sass,Ruby,Stephen Rodriguez,"New York, NY",Stephn-R,,,,,IssueCommentEvent
+EdwardStudy,JavaScript,Zida,China,EdwardStudy,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+bitfulsoftware,,Matt Wahlig,St. Louis,mwahlig,,,,,IssuesEvent
+AishwaryaT,Java,Aishwarya Thangappa,,AishwaryaT,,,,,MemberEvent
+weathernick,CSS,,,weathernick,,,,Initial commit,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+xinwucwp,TeX,Xinming Wu,"924 16th Street Golden, Colorado 80401",xinwucwp,,,,update,PushEvent
+byggztryng,Ruby,Aaron Lane,,byggztryng,,,,Parallelize Travis bundle install,PushEvent
+Yaffle,,Viktor,,Yaffle,,,,Update index.html,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+yfsuse,Python,yufeng,china,yfsuse,,,,remove some statement useless,PushEvent
+adreyer,Python,Nathaniel Smith,"Atlanta, GA",nathanielksmith,,,,,ForkEvent
+monilka,,,,monilka,,,,,IssuesEvent
+LocalData,JavaScript,TransforMap,,14mmm,,,,,ForkEvent
+jessesquires,Objective-C,Johnny Nguyen,"Hanoi, Vietnam",vietnguyen09,,,,,WatchEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+sharmilajesupaul,CSS,Sharmila Jesupaul,,sharmilajesupaul,,,,fixed links,PushEvent
+jpSimkins,PHP,Jeremy Simkins,,jpSimkins,,,,updated readme,PushEvent
+bitfulsoftware,,Matt Wahlig,St. Louis,mwahlig,,,,,IssuesEvent
+adaept,CSS,,,peterennis,,,,fixed readme formatting issues,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+mightyiam,JavaScript,Shahar Or,Israel,mightyiam,,,,,IssuesEvent
+danarrington,Ruby,Dan Arrington,"Seattle, WA",danarrington,,,,,CreateEvent
+jazzwang,Java,Jazz Yao-Tsung Wang,"HsinChu, Taiwan",jazzwang,,,,* fix .bashrc newline issue on koding.com,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+vnzacky,JavaScript,Zacky,,vnzacky,,,,Fix Validate,PushEvent
+bricemciver,JavaScript,,,bricemciver,,,,,CreateEvent
+looking-promising,JavaScript,,,looking-promising,,,,Create README.md,PushEvent
+apache,Scala,Reynold Xin,"Berkeley, CA",rxin,0,Minor cleanup to tighten visibility and remove compilation warning.,1,,PullRequestEvent
+jessesquires,Objective-C,Johnny Nguyen,"Hanoi, Vietnam",vietnguyen09,,,,,ForkEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+jpadams,Puppet,,,jpadams,,,,reorder,PushEvent
+apache,Scala,Xiangrui Meng,,mengxr,,[SPARK-3486][MLlib][PySpark] PySpark support for Word2Vec,,,PullRequestReviewCommentEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+li9154,,,,li9154,,,,,IssuesEvent
+zwopple,Objective-C,Nick Lee,"Brooklyn, NY",nickplee,,,,,WatchEvent
+klamping,CSS,Kevin Lamping,"San Antonio, Texas",klamping,,,,exercise 3 updates and installs,PushEvent
+evoluteur,JavaScript,Olivier Giulieri,"San Mateo, CA",evoluteur,,,,Text edits.,PushEvent
+oharaandrew314,Java,Andrew O'Hara,"Ottawa, Ontario",oharaandrew314,,,,Advance Project Status to Beta,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+giornaledisistema,Python,Giornale di Sistema,,giornaledisistema,,,,Merge pull request #81 from giornaledisistema/issue80 Add copyright information,PushEvent
+DjalmoCruzJr,C,Djalmo Cruz Jr.,Petrolina-PE (BR),DjalmoCruzJr,,,,,CreateEvent
+roots,,Scott Walkinshaw,Toronto,swalkinshaw,,,,,IssueCommentEvent
+xiaozhou123456,,xiaoliu123456,xiaoliu123456,xiaozhou123456,,,,,IssuesEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+charlesrogers,CSS,Charles Rogers,New York,charlesrogers,,,,images,PushEvent
+RobinGall2910,CSS,Robinson Gallego,"Norcross,GA",RobinGall2910,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+RobinGall2910,CSS,Robinson Gallego,"Norcross,GA",RobinGall2910,,,,,IssueCommentEvent
+aokman,C++,Joe Li,"Beijing, China",aokman,,,,rename game title,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+amunategui,CSS,Manuel Amunategui,,amunategui,,,,u,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+FinalDream1991,JavaScript,Chenxi Huang,"Beijing,China",FinalDream1991,,,,Site updated: 2014-09-27 12:08:25,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+petemmitchell,Ruby,Pete Mitchell,United States,petemmitchell,0,Chapter6,2,,PullRequestEvent
+sofish,JavaScript,Baoming Bai,Beijing,skyming,,,,,WatchEvent
+yookoala,,Koala Yeung,Hong Kong,yookoala,,,,,CreateEvent
+alowell,Python,,,alowell,,,,"""update""",PushEvent
+hampelm,CSS,,,gartenkarte,,,,,ForkEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+No6things,Ruby,Alberto Cavadia,Venezuela,No6things,,,,Merge branch 'master' of https://github.com/No6things/ATICOMPANY Conflicts: source/hermes/config/routes.rb,PushEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+thejakeofink,Java,Jacob Stokes,,thejakeofink,,,,Added som cool Material Design Theming.,PushEvent
+ken-wong,Ruby,ken wong,,ken-wong,,,,I18n: more for password reset,PushEvent
+s429,CSS,,,s429,,,,Updated style.scss,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+prasnathkrishnan,CSS,Wayne,,xpheal,,,,2nd,PushEvent
+listopio,JavaScript,Chathu Vishwaijith,,iamchathu,,,,Merge branch 'master' of https://github.com/listopio/jamie Conflicts: demo/kitchen-sink/styles.css index.html,PushEvent
+mbbx6spp,Scala,Susan Potter,"Urbana, IL",mbbx6spp,,,,Outline of Sigarz wrapper API for Sigar Java lib,PushEvent
+dmruwan,Java,,,thusharago,,,,M15,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+pfb120,,,,pfb120,,,,,IssuesEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+Hiroshi1978,Java,,"Tokyo, Japan",Hiroshi1978,,,,Update README.md,PushEvent
+takio-c,VimL,,,takio-c,,,,set encoding to ja_JP.UTF-8,PushEvent
+anfegacha,JavaScript,Andres Felipe Garcia Chacon,Colombia,anfegacha,,,,Cambios,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+Fredo-XVII,,Fredo,"Minneapolis, MN",Fredo-XVII,,,,Update R code - Part #3 code is complete for 3 out of 4 test for rankhospital. the code checker seems incorrect because it checks on attak instead of attack.,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+randyibarrola,PHP,,,randyibarrola,,,,p,PushEvent
+geirha,Shell,Joe DF,"Canada, Quebec",joedf,,,,,WatchEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+andrewjstone,Erlang,Igor Kapkov,Saint-Petersburg,igas,,,,,WatchEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+aguythere,Lua,,,aguythere,,,,minor update C# minor progress made,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+Netflix,Java,Bradley Baetz,,bbaetz,,,,,IssueCommentEvent
+sandialabs,Python,Timothy M. Shead,,tshead2,,,,Updating reference SVG files.,PushEvent
+PIH,Java,Darius Jazayeri,,djazayeri,,,,UHM-1578 - Protect confidential patient details in Mirebalais override of standard identifier column,PushEvent
+davras,Arduino,,,davras,,,,rename for config,PushEvent
+bsmr-erlang,Elixir,Boris M��hmer,"N��rnberg, Germany",bsmr,,,,Add query pretty printing Closes #224.,PushEvent
+qq290584697,JavaScript,,,qq290584697,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+aminmeyghani,,Amin Meyghani,Brooklyn,aminmeyghani,,,,update test1 test2,PushEvent
+jtremback,CSS,Jehan,Bay Area,jtremback,,,,,CreateEvent
+cloew,Python,,,cloew,,,,Added Parallax Card,PushEvent
+thekingh,,,,thekingh,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+RobinGall2910,CSS,Robinson Gallego,"Norcross,GA",RobinGall2910,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+SalmanSiddique,,Salman Siddique,,SalmanSiddique,,,,,CreateEvent
+twofront,JavaScript,Thomas Baron,,tjbaron,,,,Tweaked for post data.,PushEvent
+jrowberg,C++,,,codesigner,,,,,ForkEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+Aerolab,JavaScript,Reece Butler,"Sydney, Australia",reecebutler,,,,,WatchEvent
+monilka,,,,monilka,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+chenguanzhou,CSS,,,chenguanzhou,,,,change readme,PushEvent
+li9154,,,,li9154,,,,,IssuesEvent
+sztlfkyy,,,,vjdnflfjz,,,,,IssuesEvent
+kerrylook55,,,,kerrylook55,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+doc-iwatersports,PHP,Doc Daneeka,,doc-iwatersports,,,,,CreateEvent
+voussoir,Python,,,voussoir,,,,reddit 77 Put name back into master readme because I do what I want,PushEvent
+doc-iwatersports,PHP,Doc Daneeka,,doc-iwatersports,,,,,ReleaseEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+rahularora,Java,Rahul Arora,"San Francisco, CA, US",rahularora,,,,Adding new plugins,PushEvent
+OvercastNetwork,Ruby,,,Electroid,,,,"New Deathmatch rotations, closes PR #205",PushEvent
+mamaral,Objective-C,Baoming Bai,Beijing,skyming,,,,,WatchEvent
+hazendaz,Java,Jeremy Landis,USA,hazendaz,,,,Merge pull request #7 from hazendaz/master README Updates,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+xming13,JavaScript,Wei Seng,Singapore,xming13,,,,,DeleteEvent
+monilka,,,,monilka,,,,,IssuesEvent
+humano,PHP,humano,Colombia,humano,,,,Mejoras en la usabilidad para crear formularios y editar los campos,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+Jant1921,Java,,,Jant1921,,,,Creada ventana de la caluladora funcional pero sin realizar operaciones,PushEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+rstacruz,JavaScript,Gregor Aisch,Brooklyn,gka,,,,,IssueCommentEvent
+binbin4649,PHP,hideichi saito,japan,binbin4649,,,,rayout fix.,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+ooof,,ooof,China,ooof,,,,sfafdf,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+SalmanSiddique,Java,Salman Siddique,,SalmanSiddique,,,,,CreateEvent
+qutip,Python,Robert Johansson,Tokyo,jrjohansson,,,,,IssueCommentEvent
+monilka,,,,monilka,,,,,IssuesEvent
+aiden603prmvblo,,,,aiden603prmvblo,,,,,CreateEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+aminmeyghani,,Amin Meyghani,Brooklyn,aminmeyghani,,,,update test 1 test2 on master,PushEvent
+geerlingguy,,Jeff Geerling,"St. Louis, MO",geerlingguy,,,,Another attempt to get this fixed.,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+rranelli,Emacs Lisp,Renan Ranelli,"S��o Paulo, Brasil",rranelli,,,,Add macro to unbind keys,PushEvent
+krongk,CSS,krongk,"chengdu,china",krongk,,,,fe,PushEvent
+unitpoint,,Evgeniy Golovin,Moscow,unitpoint,,,,upgrade,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+whatwewant,Shell,,,whatwewant,,,,+ source staticVariable.config,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+radcircle-dev,,Gavin Dinubilo,United States,gavindinubilo,,,,"button things, also fonts",PushEvent
+jayway,Java,Manfred Moser,"Victoria, BC",mosabua,,,,,IssueCommentEvent
+li9154,,,,li9154,,,,,IssuesEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+RajatBhageria,JavaScript,,,macmatt22,,,,Added models for pairs and messages,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+threatstream,Python,Joe DF,"Canada, Quebec",joedf,,,,,WatchEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+wujiangwei,Objective-C,Indrajit Chakrabarty,"Sydney, Australia",indyfromoz,,,,,WatchEvent
+kafji,Java,Kafji,"Jakarta, Indonesia",kafji,,,,,CreateEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+concordion,Java,Nigel Charman,"Wellington, New Zealand",nigelcharman,,,,Update README.md,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+couchbaselabs,Clojure,Steve Yen,"Mountain View, CA",steveyen,,,,Support per-item response channel in multi-get.,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+upcevo201402,Java,,,ianache,,,,Merge branch 'master' of https://github.com/upcevo201402/bpm-btm.git,PushEvent
+kylethacker,CSS,Kyle Thacker,,kylethacker,,,,New navigation,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+CocoaPods,Ruby,,,sgallese,,,,,ForkEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+rails,Ruby,,,SundayFunday,,,,,ForkEvent
+ideologi,,mykljonzun,,mykljonzun,,,,,GollumEvent
+prikhi,Haskell,Lysergia,,prikhi,,,,"[#13] Add the update Command * Add the update command, allowing the user to update an Issue using a number of flags. The user may also choose to edit the description in their environments $EDITOR. * Add the issueProjectId field to the Issue data type. * Refactor the openEditorAndGetContents function into smaller, more modular functions. Closes #13: Add update issue command",PushEvent
+fireball-x,JavaScript,Jare Guo,"Xiamen, China",jareguo,,,,add log functions,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+sansumbrella,C++,David Wicks,,sansumbrella,,,,Update README.,PushEvent
+themouette,JavaScript,Masaaki Komori,Tokyo JAPAN,gaspanik,,,,,WatchEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+lotus,Ruby,Ivan Nemytchenko,"Omsk, Russia",inem,,,,,WatchEvent
+steveyen,Clojure,Steve Yen,"Mountain View, CA",steveyen,,,,Support per-item response channel in multi-get.,PushEvent
+augustohp,VimL,Augusto Pascutti,"S��o Paulo, Sp / Brazil",augustohp,,,,Add Heroku toolbelt on PATH.,PushEvent
+basketbaseb,Ruby,,,basketbaseb,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+geometer,Java,TAKAHASHI Tamotsu,,tamo,0,Update ja.xml,1,,PullRequestEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+TPPI-Dev,CSS,,,tterrag1098,,,,,IssuesEvent
+vkhatri,Ruby,Virender Khatri,India,vkhatri,1,test kitchen tests,1,,PullRequestEvent
+vkhatri,Ruby,Virender Khatri,India,vkhatri,,,,Merge pull request #3 from danfruehauf/test_kitchen test kitchen tests,PushEvent
+xiaozhou123456,,xiaoliu123456,xiaoliu123456,xiaozhou123456,,,,,IssuesEvent
+00s,JavaScript,"Farias, A",Toronto ON,00s,,,,,DeleteEvent
+nwoolls,C#,Nate Woolls,,nwoolls,,,,,CreateEvent
+huxinghai1988,JavaScript,kaka,,huxinghai1988,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+herold4,JavaScript,Michael Herold,"San Francisco, CA",herold4,,,,"use throw, not catch",PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+anitagraser,Scheme,Adam H. Sparks,"Los Ba��os, Laguna, Philippines",adamhsparks,,,,,WatchEvent
+blakev,JavaScript,Blake VandeMerwe,Utah,blakev,,,,Fixed mixed req + opt parameters,PushEvent
+ShakirRasheedKhanKhattak,,,,ShakirRasheedKhanKhattak,,,,PULL AND PUSH,PushEvent
+nagabharan,Java,Nagabharan N,Dallas,nagabharan,,,,Create practice input.txt,PushEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+justinmeza,C,Peter Kos,Florida,peterkos,,,,,WatchEvent
+scrutinizer-ci,Python,messense,"Anhui, China",messense,,,,,ForkEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+sefonty,JavaScript,,,sefonty,,,,tackled execution for CmdCommand and batch5 error,PushEvent
+vonnyfly,Python,"Feng,Li",,vonnyfly,,,,,CreateEvent
+ramdesh,,Janaka Ranathunga,"Colombo, Sri Lanka",JayyR,,,,usergrid war moved to root,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hswolff,CSS,Harry Wolff,"New York, NY",hswolff,,,,update casper to latest,PushEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+outboundexplorer,,Andy Roddam,,outboundexplorer,,,,Update Laravel-4-Authentication.md,PushEvent
+OpenROV,JavaScript,Dominik Fretz,Bondi Beach - Sydney - Australia,codewithpassion,,,,Fixing,PushEvent
+SenhW,,,,SenhW,,,,Delete BOGGLE.8xp,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+OvercastNetwork,Ruby,,,Electroid,15,Update Deathmatch rotations on US and EU,2,,PullRequestEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+nnnick,JavaScript,,,adilsonb,,,,,IssueCommentEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+pfb120,,,,pfb120,,,,,IssuesEvent
+benjaminoakes,Ruby,Ben Oakes,"Iowa City, IA",benjaminoakes,,,,Update guard and guard-rspec,PushEvent
+minshih,,,,minshih,,,,Paper 4 and images,PushEvent
+progwml6,Java,,,Adubbz,,,,Fixed chests having incorrect drops,PushEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+Door43,Shell,,,dsm-git,,,,Page Edit [08]: [Translation Notes:] [Allen Bair],PushEvent
+InternetDevels,CSS,InternetDevels.com,Ukraine,InternetDevels,,,,Update bump.,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+RichardHightower,Java,Richard Hightower,United States,RichardHightower,,,,Progress on method dispatch,PushEvent
+xvorenda,JavaScript,X. Valentine Orenda,United States,xvorenda,,,,debug,PushEvent
+arburako,CSS,,,arburako,,,,Merge branch 'gh-pages' Conflicts: index.html,PushEvent
+SoarGroup,C,Mazin Assanie,"Ann Arbor, MI",mazina,,,,Merge branch 'soar-9.4-fixed-dts' into soar-9.4 - Fixed detailed timing stats to use new timers and added cli code to actually print the results out.,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+nnnick,JavaScript,,,adilsonb,,,,,IssuesEvent
+Secretchronicles,C++,,,datahead8888,,,,,IssueCommentEvent
+KenanSulayman,JavaScript,Kenan Sulayman,"Berlin, Germany",KenanSulayman,,,,1411790963185 b/cggEIu0iLhToAo+n+FvCw/CLxWo6S72QMnxzu2H+w=,PushEvent
+ajuanr,C++,,,ajuanr,,,,Signed off by me,PushEvent
+OpenRA,C#,,,atlimit8,,,,,IssueCommentEvent
+OvercastNetwork,Ruby,,,Electroid,,,,,DeleteEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+monochromegane,,,,monochromegane,,,,Updated go version to 1.3.2,PushEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+qhyuan1992,,,,qhyuan1992,,,,,CreateEvent
+weathernick,CSS,,,weathernick,,,,Initial commit,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+keystonejs,JavaScript,Alex,,of6,,,,,WatchEvent
+michaeldvinci,Java,,,michaeldvinci,,,,Newest addition Added licensing and JavaDoc,PushEvent
+josephyzhou,Go,Joe Zhou,@josephzhou,josephyzhou,,,,"""Jeff: Come to the dark side... together we will rule the galaxy.""",PushEvent
+unitpoint,C++,Evgeniy Golovin,Moscow,unitpoint,,,,upgrade,PushEvent
+torreta,Ruby,Luis Enrique Campos Mijares,Caracas / Venezuela,torreta,,,,,CreateEvent
+zibs,CSS,Eli Zibin,vancouver,zibs,,,,wee,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+naoa,C++,Naoya Murakami,Japan Hyogo,naoa,,,,tool: fix page name,PushEvent
+giornaledisistema,Python,Giornale di Sistema,,giornaledisistema,,,,Merge pull request #81 from giornaledisistema/issue80 Add copyright information,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+SasikalaParuchuri,JavaScript,,,SasikalaParuchuri,,,,Bug 1037315 - [Music] If video/3gpp or video/ogg is received in music app converting to audio/3gpp and audio/ogg while sharing to SMS app,PushEvent
+jdavisp3,Python,TonyFenng,"Chengdu,Sichuan,China",tonyfenng,,,,,WatchEvent
+mgerhardy,C,Martin Gerhardy,Germany/Hamburg,mgerhardy,,,,* this header does not exist (fixed android build),PushEvent
+upmin,Ruby,Jon Calhoun,"Mountain View, CA",joncalhoun,,,,,IssueCommentEvent
+yhuang912,Java,magicle,,magicle,,,,,ForkEvent
+monilka,,,,monilka,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+3045724a,,,,3045724a,,,,,IssuesEvent
+qhyuan1992,,,,qhyuan1992,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+berezv,Python,Vadim Berezniker,United States,berezv,,,,Remove invalid import.,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+josephyzhou,Go,Joe Zhou,@josephzhou,josephyzhou,,,,"""Jeff: Give yourself to the Dark Side. It is the only way you can save your friends.""",PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+darylsew,JavaScript,Daryl Sew,"Palo Alto, CA",darylsew,,,,Merge branch 'master' of https://github.com/darylsew/horcrux,PushEvent
+harveyxg3,,,,harveyxg3,,,,,CreateEvent
+oscarmolinadev,SQF,,"Barcelona, Catalonia",oscarmolinadev,,,,Add files get colors rgba and wip get icon group,PushEvent
+bitcoin,TypeScript,,,BitcoinPullTester,,,,,IssueCommentEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+hadley,R,Arum Kone,"Ft. Washakie, Wyoming",MuraEnok,,,,,IssueCommentEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+urbit,C,,New England,chc4,,,,,WatchEvent
+lmartel,CSS,Leo Martel,"Stanford, CA",lmartel,,,,added 2ez route,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+monilka,,,,monilka,,,,,IssuesEvent
+follesoe,,Jonas Folles��,"Trondheim, Norway",follesoe,,,,Merge pull request #4 from nixpulvis/master Support block comments.,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+follesoe,,Jonas Folles��,"Trondheim, Norway",follesoe,0,Support block comments.,1,,PullRequestEvent
+RohanKumarBhoi,,Raichu,,RohanKumarBhoi,,,,,CreateEvent
+zznpxyy,,,,zznpxyy,,,,,IssuesEvent
+syed-ahmed,Java,Syed Tousif Ahmed,"Rochester, NY",syed-ahmed,,,,Calculating a^n,PushEvent
+aparapi,Java,,,SubaruWRC,,,,Adjusted build.xml to work with Java 7. Pruned Eclipse classpath.,PushEvent
+gk1721,,Gajendra,,gk1721,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+gamma235,JavaScript,,,gamma235,,,,updates,PushEvent
+Komodo,CoffeeScript,Nathan Rijksen,"Quebec, Canada",Naatan,,,,"a164b50 blog: syntax checking: remove outer div, allows markdown processing",PushEvent
+sahat,PHP,Matthieu Napoli,"Wellington, New Zealand",mnapoli,,,,,WatchEvent
+davras,Arduino,,,davras,,,,rename for config,PushEvent
+allmobilize,JavaScript,Minwe LUO,Beijing,Minwe,,,,Update credits.md,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+monilka,,,,monilka,,,,,IssuesEvent
+s429,CSS,,,s429,,,,Updated _variables.scss,PushEvent
+lsanghes,PHP,,,lsanghes,,,,updated readme file with demo information,PushEvent
+alowell,Python,,,alowell,,,,"""update""",PushEvent
+JuliaLang,Julia,Tony Kelman,"Berkeley, CA",tkelman,,,,,IssueCommentEvent
+stenrap,Java,,,stenrap,,,,Now storing the FG% and FT%,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+tg--,C,thomasg,,tg--,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+li9154,,,,li9154,,,,,IssuesEvent
+jeffdcamp,Java,,,jeffdcamp,,,,minor pom.xml update,PushEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+zzhz,,,,zzhz,,,,,IssuesEvent
+AdamJackson1,CSS,,,AdamCooke1,,,,Logo,PushEvent
+amyruth,JavaScript,Amy Rutherford,North Carolina,amyruth,,,,sort and print object code complete,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+atlashealth,,Philip Misiowiec,"Nashville, TN / Simi Valley, CA",philm,,,,Ability to detach an EBS volume from an EC2 instance Implements http://boto.readthedocs.org/en/latest/ref/ec2.html#boto.ec2.volume.Volum e.detach,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+privong,Python,George Privon,,privong,,,,improved formatting of verbose output,PushEvent
+hnnpxyy,,���������,���������������������������1���,hnnpxyy,,,,,IssuesEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+qianxiaoyi,,,,qianxiaoyi,,,,,IssuesEvent
+Novapps,CSS,Luis Benitez,Palmira,luisbenitez02,,,,Parallax Arreglos,PushEvent
+NgaNguyenDuy,Lua,Nga Nguyen Duy,H�� N���i,NgaNguyenDuy,,,,added theme steamburn,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+piratetone,JavaScript,Vansoon,,vandoan,,,,figured out how to get all active games to show up correctly for a user and corrected a bug for the all games code,PushEvent
+monilka,,,,monilka,,,,,IssuesEvent
+cakephp,PHP,Jonas,Germany,ionas,,,,,IssueCommentEvent
+ironprice91,JavaScript,Michael Canlas,,ironprice91,,,,added dynamic time/row creation,PushEvent
+jacquezheng,,Hao Zheng,,jacquezheng,,,,,CreateEvent
+Skizzk,Ruby,Zaratan,Montr��al,Skizzk,,,,adding logos,PushEvent
+tingletech,JavaScript,Brian Tingle,Oakland,tingletech,,,,start to set up for wercker,PushEvent
+BVLC,C++,,,jyegerlehner,,,,,IssuesEvent
+wildfly,Java,WildFly CI,Internet,wildfly-ci,,,,,IssueCommentEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+Cocoanetics,Objective-C,Nick Lee,"Brooklyn, NY",nickplee,,,,,WatchEvent
+dpc,Rust,Jameson Little,"Orem, UT",beatgammit,0,Fix build,3,,PullRequestEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+zznpxyiyuan,,,,zznpxyiyuan,,,,,IssuesEvent
+listopio,JavaScript,Pasindu De Silva,,pasindud,,,,comiit,PushEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+xinwucwp,Java,Xinming Wu,"924 16th Street Golden, Colorado 80401",xinwucwp,,,,update,PushEvent
+li9154,,,,li9154,,,,,IssuesEvent
+ashfaqms852,,,,ashfaqms852,,,,,CreateEvent
+hno,C++,Henrik Nordstr��m,"Tumba, South of Stockholm, Sweden",hno,,,,,CreateEvent
+tessel,JavaScript,Tim Cameron Ryan,coast to coast,tcr,,,,travisplexer: pr-475-osx travis ci test,PushEvent

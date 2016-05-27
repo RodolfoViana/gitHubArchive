@@ -1,0 +1,17 @@
+type,n_type
+PushEvent,6965813
+CreateEvent,962230
+WatchEvent,779596
+IssueCommentEvent,548505
+IssuesEvent,455744
+ForkEvent,221363
+GistEvent,212644
+PullRequestEvent,211824
+FollowEvent,166091
+GollumEvent,113482
+CommitCommentEvent,94047
+DeleteEvent,87507
+MemberEvent,43414
+DownloadEvent,30608
+ForkApplyEvent,10849
+PublicEvent,7363
