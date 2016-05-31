@@ -1,0 +1,14 @@
+---
+title: "Analises"
+author: "Rodolfo Viana"
+date: "26-05-2016"
+output: html_document
+---
+
+
+
+```{r}
+library(jsonlite)
+json.data <- fromJSON("teste.json") 
+```
+
