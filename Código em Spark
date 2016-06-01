@@ -1,0 +1,23 @@
+Utilizando Spark para processar os dados. 
+Eu já trabalhei com Spark e Hadoop. Como já tinha todo o ambiente setado na minha máquina
+decidi utilizar o Spark junto com o Hadoop para responder a uma pergunta.
+Qual foi o evento mais comum no github do dia 1 de Janeiro de 2015. 
+
+Para isso, baixei o json apenas desse dia com o comando 
+"wget http://data.githubarchive.org/2015-01-01-15.json.gz"
+
+Depois disso, rodei inicializei o Spark(pyspark) e rodei o seguinte conjunto de comandos. 
+
+textFile = sc.textFile("/home/rodolfo/Projetos/gitHubArchive/dados/Janeiro/2015-01-01-0.json") 
+
+def contaTipo(line): 
+     tipo = line.split(',')[1].split(':')[1]  
+     return (tipo, 1) 
+ 
+ 
+countsTipo = textFile.map(contaTipo).reduceByKey(lambda a, b: a + b)
+countsTipo.saveAsTextFile('output') 
+
+A saída pode ser encontrada na pasta output. Contém dois arquivos de resposta. Nele é possível observar que o evento mais comum do dia 1 de Janeiro de 2015 foi o "PushEvent" que ocorreu exatamente 4280 vezes. 
+
+Você pode observar a frequência das outras saidas na pasta output.  

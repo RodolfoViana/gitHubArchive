@@ -1,0 +1,59 @@
+Todas as consultas realizadas no bigquery que resultaram nos csv da pasta dados
+
+# results-2011..14
+SELECT
+  repository_owner, repository_language, actor_attributes_name, actor_attributes_location, actor, payload_pull_request_comments, payload_pull_request_title, payload_pull_request_commits, payload_commit_msg, type
+FROM
+  [githubarchive:year.2014]
+LIMIT
+  1000 
+
+# Quantidade de projetos Public 
+SELECT
+  public,
+  COUNT(1) AS n_public
+FROM
+  [githubarchive:year.2011]
+GROUP BY
+  public
+ORDER BY
+  n_public DESC
+LIMIT
+  1000
+
+
+# Pessoa mais ativa 
+SELECT
+  actor, count(1) as pessoa
+FROM
+  [githubarchive:year.2011]
+group by actor
+order by pessoa desc 
+
+# Type quantidade 
+SELECT
+  type, count(1) as n_type
+FROM
+  [githubarchive:year.2011]
+group by type
+order by n_type Desc 
+limit 1000
+
+# repository url count 
+SELECT repository_url, count(1) as n_url  
+FROM [githubarchive:year.2014] 
+group by repository_url
+order by n_url desc 
+limit 1000
+
+
+# Descrição e Commits dos projetos mais ativos de 2014
+Select repository_url, repository_description, payload_commit_msg
+FROM [githubarchive:year.2014] 
+where repository_url in (select repository_url 
+from (SELECT repository_url, count(1) as n_repository 
+FROM [githubarchive:year.2014] 
+group by repository_url 
+order by n_repository Desc
+LIMIT 10) 
+where repository_url != "null")
